@@ -11,11 +11,8 @@ We welcome contributions from the community to improve and expand the functional
 
 
 ## Get in Touch
-Have questions, suggestions, or feedback? Feel free to reach out to us via [insert contact information].
+Have questions, suggestions, or feedback? Feel free to reach out to us .
 
-## License
-This project is licensed under the [License Name, e.g., MIT License]. See the LICENSE file for more details.
 
----
 
 Feel free to customize sections like technologies used, installation instructions, and contact information to suit your project specifics. Happy coding!
