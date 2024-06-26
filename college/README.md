@@ -1,6 +1,6 @@
 # [Your College Name] Mobile App
 
-Welcome to the official repository of the [Your College Name] Mobile App!
+Welcome to the official repository of the Mechi Multiple Campus Mobile App!
 
 ## About
 This repository contains the Dart and Flutter-based mobile application developed by the students of Mechi Multiple Campus to streamline campus life and enhance the student experience through technology.
