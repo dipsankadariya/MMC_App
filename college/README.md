@@ -1,4 +1,4 @@
-# [Your College Name] Mobile App
+# [Mechi Multiple Campus] Mobile App
 
 Welcome to the official repository of the Mechi Multiple Campus Mobile App!
 
