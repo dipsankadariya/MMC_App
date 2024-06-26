@@ -10,11 +10,7 @@ Welcome to the official repository of the Mechi Multiple Campus Mobile App!
 ## About
 This repository hosts the Dart and Flutter-based mobile application developed by students of Mechi Multiple Campus. Our goal is to streamline campus life and enhance the student experience through innovative technology.
 
-## Key Features
-- **Interactive Campus Map**: Navigate our campus with ease using detailed maps and building information.
-- **Event Management**: Stay updated with upcoming campus events, workshops, and seminars.
-- **News Feed**: Get instant access to the latest campus news and announcements.
-- **Student Resources**: Access academic resources, library catalog, and student services seamlessly.
+
 
 ## Contributing
 We welcome contributions from all members of our community. Whether you're a student, faculty member, or developer, your ideas and contributions are valuable to us! To contribute, please fork the repository and submit a pull request with your changes.
@@ -22,9 +18,5 @@ We welcome contributions from all members of our community. Whether you're a stu
 ## Contact Us
 Have questions, suggestions, or feedback? Feel free to reach out to us via [insert contact information].
 
-## License
-This project is licensed under the [License Name, e.g., MIT License]. See the LICENSE file for more details.
 
----
 
-Feel free to customize sections like technologies used, installation instructions, and contact information to better suit your project specifics. Happy coding!
