@@ -1,6 +1,6 @@
 # Mechi Multiple Campus Mobile App
 
-Welcome to the official repository of the Mechi Multiple Campus Mobile App!
+Welcome to the  repository of the Mechi Multiple Campus Mobile App!
 
 <p align="center">
   <img src="https://github.com/dipsankadariya/MMC_App/assets/139572157/13b563e5-3437-476c-8c28-89f8db97f122" width="300" height="533" alt="Signup Screen">
