@@ -52,7 +52,7 @@ class SignUpPage extends StatelessWidget {
                 width: 300,
                 child: TextField(
                   decoration: InputDecoration(
-                    labelText: 'Enter college Email',
+                    labelText: 'Enter  Email',
                     border: OutlineInputBorder(
                       borderSide: BorderSide(
                         color: Colors.lightBlue,
@@ -142,13 +142,13 @@ class SignUpPage extends StatelessWidget {
                     print('Sign Up button pressed');
                   },
                   style: ButtonStyle(
-                    backgroundColor: MaterialStateProperty.all<Color>(
+                    backgroundColor: WidgetStateProperty.all<Color>(
                       Colors.lightBlue,
                     ),
-                    padding: MaterialStateProperty.all<EdgeInsetsGeometry>(
+                    padding: WidgetStateProperty.all<EdgeInsetsGeometry>(
                       EdgeInsets.symmetric(vertical: 12),
                     ),
-                    shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                    shape: WidgetStateProperty.all<RoundedRectangleBorder>(
                       RoundedRectangleBorder(
                         borderRadius: BorderRadius.zero,
                       ),
@@ -171,7 +171,6 @@ class SignUpPage extends StatelessWidget {
                   SizedBox(width: 8),
                   TextButton(
                     onPressed: () {
-                      // Navigate back to LoginPage
                       Navigator.pop(context);
                     },
                     child: Text(

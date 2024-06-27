@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:college/signup.dart'; // Corrected import statement
 
 class LoginPage extends StatelessWidget {
   const LoginPage({Key? key}) : super(key: key);
@@ -96,7 +95,8 @@ class LoginPage extends StatelessWidget {
                 height: 50,
                 child: ElevatedButton(
                   onPressed: () {
-                    print('Sign In button pressed');
+                    Navigator.pushNamed(context,
+                        '/semesterSelection'); // Navigate to SemesterSelectionPage
                   },
                   style: ButtonStyle(
                     backgroundColor:
@@ -127,7 +127,6 @@ class LoginPage extends StatelessWidget {
                   SizedBox(width: 8),
                   TextButton(
                     onPressed: () {
-                      // Navigate to SignUpPage
                       Navigator.pushNamed(context, '/signup');
                     },
                     child: Text(

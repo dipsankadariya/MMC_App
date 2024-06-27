@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:college/login.dart';
-import 'package:college/signup.dart';
+import 'login.dart';
+import 'signup.dart';
+import 'page01.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,6 +17,8 @@ class MyApp extends StatelessWidget {
       home: LoginPage(),
       routes: {
         '/signup': (context) => SignUpPage(),
+        '/semesterSelection': (context) =>
+            SemesterSelectionPage(), // Add this route
       },
     );
   }
